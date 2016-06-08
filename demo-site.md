@@ -10,7 +10,7 @@ This tutorial will show you how to create a simple website, showing graphs of th
 
 1. Navigate to the web folder:
 
-    `cd /var/www/html`
+    `cd /var/www`
 
 1. Download the files to a folder named `demo`:
 
