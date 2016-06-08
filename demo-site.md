@@ -29,7 +29,7 @@ This tutorial will show you how to create a simple website, showing graphs of th
 
     `cd ..`
 
-You should now be in `/var/www/html/demo`.
+You should now be in `/var/www/demo`.
 
 ## Set up and connect
   
